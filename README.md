@@ -30,30 +30,18 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-alexandre-7209a0386/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
+  <img width="10" />
   <a href="https://codepen.io/LUCAS-ALEXANDRE-the-lessful" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+  <img width="10" />
+  <a href="mailto:lucasalexandre.lads13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 </div>
 
-###
-
-<div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasAlexandreDev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" 
-    height="300"
-  />
-
-  <img width="35" />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=LucasAlexandreDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false&order=1" 
-    height="300"
-  />
-
-</div>
 
 ###
 
