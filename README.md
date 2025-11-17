@@ -65,7 +65,6 @@ Sou apaixonado por tecnologia e estou construindo minha carreira para atuar como
 Tenho experiência com programação, redes, IoT e fundamentos de engenharia de software — conhecimentos que estou aplicando nos meus projetos aqui no GitHub.  
 Seja bem-vindo! 🚀
 
----
 
 # 📖Tecnologias que estou estudando
 
@@ -99,7 +98,7 @@ Seja bem-vindo! 🚀
 
 </div>
 
----
+
 
 ## 🖥️ Sistemas Operacionais
 
@@ -125,13 +124,12 @@ Seja bem-vindo! 🚀
 
 </div>
 
----
+
 
 ## 🌐 Redes, Infraestrutura & IoT
 
 <div style="display:flex;align-items:center;gap:30px;flex-wrap:wrap;margin-top:20px;">
 
-  <!-- Cisco Packet Tracer -->
   <div style="display:flex;flex-direction:column;align-items:center;max-width:170px;gap:8px;">
     <img src="https://github.com/user-attachments/assets/2349dce7-c036-4c60-bd8e-f5b94eeaa513" height="50" alt="Cisco Packet Tracer" />
     <strong>Cisco Packet Tracer</strong>
@@ -140,7 +138,6 @@ Seja bem-vindo! 🚀
     </span>
   </div>
 
-  <!-- Autodesk Tinkercad -->
   <div style="display:flex;flex-direction:column;align-items:center;max-width:170px;gap:8px;">
     <img src="https://github.com/user-attachments/assets/e35c1784-721c-4cbd-8411-52c670ac63a3" height="50" alt="Autodesk Tinkercad" />
     <strong>Autodesk Tinkercad</strong>
@@ -152,9 +149,6 @@ Seja bem-vindo! 🚀
 </div>
 
 
-
----
-
 ## 📘 Engenharia de Software
 
   <div style="display:flex;flex-direction:column;align-items:center;max-width:230px;gap:8px;">
@@ -165,7 +159,7 @@ Seja bem-vindo! 🚀
 
 </div>
 
----
+
 
 
 
